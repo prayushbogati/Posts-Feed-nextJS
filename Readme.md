@@ -13,3 +13,4 @@
 - `useFormState` (now useActionState) hook used for form validation and error handling
 - Using `Cloudinary` for storing images to cloud platform
 - Performing optimistic UI updates using `useOptimistic` hook for instant UI update 
+- Using `revalidatePath('path_name')` for re-rendering the required page avoiding nextJS caching
